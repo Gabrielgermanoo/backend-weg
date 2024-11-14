@@ -1,0 +1,29 @@
+{
+  "manufactory": "WEG",
+  "version": "1.0",
+  "serial": "123456",
+  "family": "CFW",
+  "eq_voltage": "220V",
+  "configuration": "1.5kW serial",
+  "model": "CFW08",
+  "communication": "RS232",
+  "floating_voltage": "220V",
+  "input": {
+    "voltage": "220V",
+    "frequency": "60Hz"
+  },
+  "output": {
+    "voltage": "220V",
+    "frequency": "60Hz",
+    "power": "1.5kW"
+  },
+  "battery": {
+    "amount": "1",
+    "voltage": "220V",
+    "capacity": "100Ah",
+    "recharge_current": "10A"
+  },
+  "nickname": "Nobreak Home 1200",
+  "location": "Maceió/AL - Brazil",
+  "num_serial": "HOME012051090200"
+}

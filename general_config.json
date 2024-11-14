@@ -1,0 +1,5 @@
+{
+    "internet_status": "Conectado",
+    "modbus_status": "Desconectado",
+    "nobreak_connection_status": "Conectando"
+}
